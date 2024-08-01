@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Salary",
+      "amount": 5000,
+      "category": "Income",
+      "date": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "name": "Groceries",
+      "amount": -150,
+      "category": "Expense",
+      "date": "2024-07-02T00:00:00.000Z"
+    },
+    {
+      "name": "Freelance",
+      "amount": 800,
+      "category": "Income",
+      "date": "2024-07-05T00:00:00.000Z"
+    },
+    {
+      "name": "Rent",
+      "amount": -1200,
+      "category": "Expense",
+      "date": "2024-07-03T00:00:00.000Z"
+    },
+    {
+      "name": "Utilities",
+      "amount": -200,
+      "category": "Expense",
+      "date": "2024-07-04T00:00:00.000Z"
+    }
+  ]
+  
